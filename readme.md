@@ -2,6 +2,8 @@
 
 This project demonstrates how to implement a horizontal scroll feature using HTML, CSS, and JavaScript. It creates an infinite scroll animation showcasing a list of Indian states and union territories.
 
+### Hover to pasue animation
+
 ## Getting Started
 
 To get started with this project, follow these steps:
